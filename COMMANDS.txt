@@ -1,0 +1,54 @@
+### Command lines for building Source Han Mono source OTFs and Super OTC
+###
+### Version 2019-05-28
+
+## Command lines for building the source language-specific OTFs
+## (replace $dir with the weight name)
+##
+## Executed in {ExtraLight,Light,Normal,Regular,Medium,Bold,Heavy}/OTC/
+
+# Simplified Chinese -- Upright & Italic
+
+makeotf -f cidfont.ps.OTC.SC -omitMacNames -ff features.OTC.SC -fi cidfontinfo.OTC.SC -mf ../../FontMenuNameDB -r -nS -cs 25 -ch ../../UniSourceHanMonoCN-UTF32-H -ci ../../SourceHanMono_CN_sequences.txt ; tx -cff +S -no_futile cidfont.ps.OTC.SC CFF.OTC.SC ; sfntedit -a CFF=CFF.OTC.SC SourceHanMonoSC-$dir.otf
+
+makeotf -f cidfont.ps.OTC.It.SC -omitMacNames -ff features.OTC.It.SC -fi cidfontinfo.OTC.It.SC -mf ../../FontMenuNameDB -r -nS -cs 25 -ch ../../UniSourceHanMonoItCN-UTF32-H -ci ../../SourceHanMono_CN_sequences_italic.txt ; tx -cff +S -no_futile cidfont.ps.OTC.It.SC CFF.OTC.It.SC ; sfntedit -a CFF=CFF.OTC.It.SC SourceHanMonoSC-${dir}It.otf
+
+# Traditional Chinese (Taiwan) -- Upright & Italic
+
+makeotf -f cidfont.ps.OTC.TC -omitMacNames -ff features.OTC.TC -fi cidfontinfo.OTC.TC -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniSourceHanMonoTW-UTF32-H -ci ../../SourceHanMono_TW_sequences.txt ; tx -cff +S -no_futile cidfont.ps.OTC.TC CFF.OTC.TC ; sfntedit -a CFF=CFF.OTC.TC SourceHanMonoTC-$dir.otf
+
+makeotf -f cidfont.ps.OTC.It.TC -omitMacNames -ff features.OTC.It.TC -fi cidfontinfo.OTC.It.TC -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniSourceHanMonoItTW-UTF32-H -ci ../../SourceHanMono_TW_sequences_italic.txt ; tx -cff +S -no_futile cidfont.ps.OTC.It.TC CFF.OTC.It.TC ; sfntedit -a CFF=CFF.OTC.It.TC SourceHanMonoTC-${dir}It.otf
+
+# Traditional Chinese (Hong Kong) -- Upright & Italic
+
+makeotf -f cidfont.ps.OTC.HC -omitMacNames -ff features.OTC.HC -fi cidfontinfo.OTC.HC -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniSourceHanMonoHK-UTF32-H -ci ../../SourceHanMono_HK_sequences.txt ; tx -cff +S -no_futile cidfont.ps.OTC.HC CFF.OTC.HC ; sfntedit -a CFF=CFF.OTC.HC SourceHanMonoHC-$dir.otf
+
+makeotf -f cidfont.ps.OTC.It.HC -omitMacNames -ff features.OTC.It.HC -fi cidfontinfo.OTC.It.HC -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniSourceHanMonoItHK-UTF32-H -ci ../../SourceHanMono_HK_sequences_italic.txt ; tx -cff +S -no_futile cidfont.ps.OTC.It.HC CFF.OTC.It.HC ; sfntedit -a CFF=CFF.OTC.It.HC SourceHanMonoHC-${dir}It.otf
+
+# Japanese -- Upright & Italic
+
+makeotf -f cidfont.ps.OTC.J -omitMacNames -ff features.OTC.J -fi cidfontinfo.OTC.J -mf ../../FontMenuNameDB -r -nS -cs 1 -ch ../../UniSourceHanMonoJP-UTF32-H -ci ../../SourceHanMono_JP_sequences.txt ; tx -cff +S -no_futile cidfont.ps.OTC.J CFF.OTC.J ; sfntedit -a CFF=CFF.OTC.J SourceHanMono-$dir.otf
+
+makeotf -f cidfont.ps.OTC.It.J -omitMacNames -ff features.OTC.It.J -fi cidfontinfo.OTC.It.J -mf ../../FontMenuNameDB -r -nS -cs 1 -ch ../../UniSourceHanMonoItJP-UTF32-H -ci ../../SourceHanMono_JP_sequences_italic.txt ; tx -cff +S -no_futile cidfont.ps.OTC.It.J CFF.OTC.It.J ; sfntedit -a CFF=CFF.OTC.It.J SourceHanMono-${dir}It.otf
+
+# Korean -- Upright & Italic
+
+makeotf -f cidfont.ps.OTC.K -omitMacNames -ff features.OTC.K -fi cidfontinfo.OTC.K -mf ../../FontMenuNameDB -r -nS -cs 3 -ch ../../UniSourceHanMonoKR-UTF32-H -ci ../../SourceHanMono_KR_sequences.txt ; tx -cff +S -no_futile cidfont.ps.OTC.K CFF.OTC.K ; sfntedit -a CFF=CFF.OTC.K SourceHanMonoK-$dir.otf
+
+makeotf -f cidfont.ps.OTC.It.K -omitMacNames -ff features.OTC.It.K -fi cidfontinfo.OTC.It.K -mf ../../FontMenuNameDB -r -nS -cs 3 -ch ../../UniSourceHanMonoItKR-UTF32-H -ci ../../SourceHanMono_KR_sequences_italic.txt ; tx -cff +S -no_futile cidfont.ps.OTC.It.K CFF.OTC.It.K ; sfntedit -a CFF=CFF.OTC.It.K SourceHanMonoK-${dir}It.otf
+
+## Command lines for pre-processing the source language-specific OTFs,
+## which will render all of them non-functional except for the seven
+## Japanese upright ones (replace $dir with the weight name)
+##
+## Executed in {ExtraLight,Light,Normal,Regular,Medium,Bold,Heavy}/OTC/
+
+sfntedit -x CFF=CFF.$dir -d DSIG SourceHanMono-$dir.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoK-$dir.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoSC-$dir.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoTC-$dir.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoHC-$dir.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMono-${dir}It.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoK-${dir}It.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoSC-${dir}It.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoTC-${dir}It.otf ; sfntedit -a CFF=CFF.$dir -d DSIG SourceHanMonoHC-${dir}It.otf
+
+## Command line for building the Super OTC
+##
+## Executed in the root directory
+
+otf2otc -o SourceHanMono.ttc ExtraLight/OTC/SourceHanMono-ExtraLight.otf ExtraLight/OTC/SourceHanMono-ExtraLightIt.otf ExtraLight/OTC/SourceHanMonoK-ExtraLight.otf ExtraLight/OTC/SourceHanMonoK-ExtraLightIt.otf ExtraLight/OTC/SourceHanMonoSC-ExtraLight.otf ExtraLight/OTC/SourceHanMonoSC-ExtraLightIt.otf ExtraLight/OTC/SourceHanMonoTC-ExtraLight.otf ExtraLight/OTC/SourceHanMonoTC-ExtraLightIt.otf ExtraLight/OTC/SourceHanMonoHC-ExtraLight.otf ExtraLight/OTC/SourceHanMonoHC-ExtraLightIt.otf Light/OTC/SourceHanMono-Light.otf Light/OTC/SourceHanMono-LightIt.otf Light/OTC/SourceHanMonoK-Light.otf Light/OTC/SourceHanMonoK-LightIt.otf Light/OTC/SourceHanMonoSC-Light.otf Light/OTC/SourceHanMonoSC-LightIt.otf Light/OTC/SourceHanMonoTC-Light.otf Light/OTC/SourceHanMonoTC-LightIt.otf Light/OTC/SourceHanMonoHC-Light.otf Light/OTC/SourceHanMonoHC-LightIt.otf Normal/OTC/SourceHanMono-Normal.otf Normal/OTC/SourceHanMono-NormalIt.otf Normal/OTC/SourceHanMonoK-Normal.otf Normal/OTC/SourceHanMonoK-NormalIt.otf Normal/OTC/SourceHanMonoSC-Normal.otf Normal/OTC/SourceHanMonoSC-NormalIt.otf Normal/OTC/SourceHanMonoTC-Normal.otf Normal/OTC/SourceHanMonoTC-NormalIt.otf Normal/OTC/SourceHanMonoHC-Normal.otf Normal/OTC/SourceHanMonoHC-NormalIt.otf Regular/OTC/SourceHanMono-Regular.otf Regular/OTC/SourceHanMono-RegularIt.otf Regular/OTC/SourceHanMonoK-Regular.otf Regular/OTC/SourceHanMonoK-RegularIt.otf Regular/OTC/SourceHanMonoSC-Regular.otf Regular/OTC/SourceHanMonoSC-RegularIt.otf Regular/OTC/SourceHanMonoTC-Regular.otf Regular/OTC/SourceHanMonoTC-RegularIt.otf Regular/OTC/SourceHanMonoHC-Regular.otf Regular/OTC/SourceHanMonoHC-RegularIt.otf Medium/OTC/SourceHanMono-Medium.otf Medium/OTC/SourceHanMono-MediumIt.otf Medium/OTC/SourceHanMonoK-Medium.otf Medium/OTC/SourceHanMonoK-MediumIt.otf Medium/OTC/SourceHanMonoSC-Medium.otf Medium/OTC/SourceHanMonoSC-MediumIt.otf Medium/OTC/SourceHanMonoTC-Medium.otf Medium/OTC/SourceHanMonoTC-MediumIt.otf Medium/OTC/SourceHanMonoHC-Medium.otf Medium/OTC/SourceHanMonoHC-MediumIt.otf Bold/OTC/SourceHanMono-Bold.otf Bold/OTC/SourceHanMono-BoldIt.otf Bold/OTC/SourceHanMonoK-Bold.otf Bold/OTC/SourceHanMonoK-BoldIt.otf Bold/OTC/SourceHanMonoSC-Bold.otf Bold/OTC/SourceHanMonoSC-BoldIt.otf Bold/OTC/SourceHanMonoTC-Bold.otf Bold/OTC/SourceHanMonoTC-BoldIt.otf Bold/OTC/SourceHanMonoHC-Bold.otf Bold/OTC/SourceHanMonoHC-BoldIt.otf Heavy/OTC/SourceHanMono-Heavy.otf Heavy/OTC/SourceHanMono-HeavyIt.otf Heavy/OTC/SourceHanMonoK-Heavy.otf Heavy/OTC/SourceHanMonoK-HeavyIt.otf Heavy/OTC/SourceHanMonoSC-Heavy.otf Heavy/OTC/SourceHanMonoSC-HeavyIt.otf Heavy/OTC/SourceHanMonoTC-Heavy.otf Heavy/OTC/SourceHanMonoTC-HeavyIt.otf Heavy/OTC/SourceHanMonoHC-Heavy.otf Heavy/OTC/SourceHanMonoHC-HeavyIt.otf
+
+# EOF

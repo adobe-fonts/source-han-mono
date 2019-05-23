@@ -1,0 +1,571 @@
+# Japanese
+
+[SourceHanMono-ExtraLight]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,EL
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 EL
+	f=Source Han Mono
+	s=EL
+	l=Source Han Mono EL
+
+[SourceHanMono-ExtraLightIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,EL Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 EL
+	f=Source Han Mono
+	s=EL Italic
+	l=Source Han Mono EL
+
+[SourceHanMono-Light]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,L
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 L
+	f=Source Han Mono
+	s=L
+	l=Source Han Mono L
+
+[SourceHanMono-LightIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,L Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 L
+	f=Source Han Mono
+	s=L Italic
+	l=Source Han Mono L
+
+[SourceHanMono-Normal]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,N
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 N
+	f=Source Han Mono
+	s=N
+	l=Source Han Mono N
+
+[SourceHanMono-NormalIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,N Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 N
+	f=Source Han Mono
+	s=N Italic
+	l=Source Han Mono N
+
+[SourceHanMono-Regular]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\30CE\7B49\5E45
+	f=Source Han Mono
+	s=Regular
+	l=Source Han Mono
+
+[SourceHanMono-RegularIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45
+	f=Source Han Mono
+	s=Italic
+	l=Source Han Mono
+
+[SourceHanMono-Medium]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,M
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 M
+	f=Source Han Mono
+	s=M
+	l=Source Han Mono M
+
+[SourceHanMono-MediumIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,M Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 M
+	f=Source Han Mono
+	s=M Italic
+	l=Source Han Mono M
+
+[SourceHanMono-Bold]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\30CE\7B49\5E45
+	f=Source Han Mono
+	s=Bold
+	l=Source Han Mono
+
+[SourceHanMono-BoldIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,Bold Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45
+	f=Source Han Mono
+	s=Bold Italic
+	l=Source Han Mono
+
+[SourceHanMono-Heavy]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,H
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 H
+	f=Source Han Mono
+	s=H
+	l=Source Han Mono H
+
+[SourceHanMono-HeavyIt]
+	f=3,1,0x411,\6E90\30CE\7B49\5E45
+	s=3,1,0x411,H Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 H
+	f=Source Han Mono
+	s=H Italic
+	l=Source Han Mono H
+
+# Korean
+
+[SourceHanMonoK-ExtraLight]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,EL
+	l=3,1,0x412,\BCF8\BAA8\B178 EL
+	f=Source Han Mono K
+	s=EL
+	l=Source Han Mono K EL
+
+[SourceHanMonoK-ExtraLightIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,EL Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 EL
+	f=Source Han Mono K
+	s=EL Italic
+	l=Source Han Mono K EL
+
+[SourceHanMonoK-Light]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,L
+	l=3,1,0x412,\BCF8\BAA8\B178 L
+	f=Source Han Mono K
+	s=L
+	l=Source Han Mono K L
+
+[SourceHanMonoK-LightIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,L Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 L
+	f=Source Han Mono K
+	s=L Italic
+	l=Source Han Mono K L
+
+[SourceHanMonoK-Normal]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,N
+	l=3,1,0x412,\BCF8\BAA8\B178 N
+	f=Source Han Mono K
+	s=N
+	l=Source Han Mono K N
+
+[SourceHanMonoK-NormalIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,N Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 N
+	f=Source Han Mono K
+	s=N Italic
+	l=Source Han Mono K N
+
+[SourceHanMonoK-Regular]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,Regular
+	l=3,1,0x412,\BCF8\BAA8\B178
+	f=Source Han Mono K
+	s=Regular
+	l=Source Han Mono K
+
+[SourceHanMonoK-RegularIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,Italic
+	l=3,1,0x412,\BCF8\BAA8\B178
+	f=Source Han Mono K
+	s=Italic
+	l=Source Han Mono K
+
+[SourceHanMonoK-Medium]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,M
+	l=3,1,0x412,\BCF8\BAA8\B178 M
+	f=Source Han Mono K
+	s=M
+	l=Source Han Mono K M
+
+[SourceHanMonoK-MediumIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,M Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 M
+	f=Source Han Mono K
+	s=M Italic
+	l=Source Han Mono K M
+
+[SourceHanMonoK-Bold]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,Bold
+	l=3,1,0x412,\BCF8\BAA8\B178
+	f=Source Han Mono K
+	s=Bold
+	l=Source Han Mono K
+
+[SourceHanMonoK-BoldIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,Bold Italic
+	l=3,1,0x412,\BCF8\BAA8\B178
+	f=Source Han Mono K
+	s=Bold Italic
+	l=Source Han Mono K
+
+[SourceHanMonoK-Heavy]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,H
+	l=3,1,0x412,\BCF8\BAA8\B178 H
+	f=Source Han Mono K
+	s=H
+	l=Source Han Mono K H
+
+[SourceHanMonoK-HeavyIt]
+	f=3,1,0x412,\BCF8\BAA8\B178
+	s=3,1,0x412,H Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 H
+	f=Source Han Mono K
+	s=H Italic
+	l=Source Han Mono K H
+
+# Simplified Chinese
+
+[SourceHanMonoSC-ExtraLight]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,EL
+	l=3,1,0x804,\601D\6E90\7B49\5BBD EL
+	f=Source Han Mono SC
+	s=EL
+	l=Source Han Mono SC EL
+
+[SourceHanMonoSC-ExtraLightIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,EL Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD EL
+	f=Source Han Mono SC
+	s=EL Italic
+	l=Source Han Mono SC EL
+
+[SourceHanMonoSC-Light]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,L
+	l=3,1,0x804,\601D\6E90\7B49\5BBD L
+	f=Source Han Mono SC
+	s=L
+	l=Source Han Mono SC L
+
+[SourceHanMonoSC-LightIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,L Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD L
+	f=Source Han Mono SC
+	s=L Italic
+	l=Source Han Mono SC L
+
+[SourceHanMonoSC-Normal]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,N
+	l=3,1,0x804,\601D\6E90\7B49\5BBD N
+	f=Source Han Mono SC
+	s=N
+	l=Source Han Mono SC N
+
+[SourceHanMonoSC-NormalIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,N Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD N
+	f=Source Han Mono SC
+	s=N Italic
+	l=Source Han Mono SC N
+
+[SourceHanMonoSC-Regular]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,Regular
+	l=3,1,0x804,\601D\6E90\7B49\5BBD
+	f=Source Han Mono SC
+	s=Regular
+	l=Source Han Mono SC
+
+[SourceHanMonoSC-RegularIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD
+	f=Source Han Mono SC
+	s=Italic
+	l=Source Han Mono SC
+
+[SourceHanMonoSC-Medium]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,M
+	l=3,1,0x804,\601D\6E90\7B49\5BBD M
+	f=Source Han Mono SC
+	s=M
+	l=Source Han Mono SC M
+
+[SourceHanMonoSC-MediumIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,M Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD M
+	f=Source Han Mono SC
+	s=M Italic
+	l=Source Han Mono SC M
+
+[SourceHanMonoSC-Bold]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,Bold
+	l=3,1,0x804,\601D\6E90\7B49\5BBD
+	f=Source Han Mono SC
+	s=Bold
+	l=Source Han Mono SC
+
+[SourceHanMonoSC-BoldIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,Bold Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD
+	f=Source Han Mono SC
+	s=Bold Italic
+	l=Source Han Mono SC
+
+[SourceHanMonoSC-Heavy]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,H
+	l=3,1,0x804,\601D\6E90\7B49\5BBD H
+	f=Source Han Mono SC
+	s=H
+	l=Source Han Mono SC H
+
+[SourceHanMonoSC-HeavyIt]
+	f=3,1,0x804,\601D\6E90\7B49\5BBD
+	s=3,1,0x804,H Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD H
+	f=Source Han Mono SC
+	s=H Italic
+	l=Source Han Mono SC H
+
+# Traditional Chinese for Taiwan (ROC)
+
+[SourceHanMonoTC-ExtraLight]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,EL
+	l=3,1,0x404,\601D\6E90\7B49\5BEC EL
+	f=Source Han Mono TC
+	s=EL
+	l=Source Han Mono TC EL
+
+[SourceHanMonoTC-ExtraLightIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,EL Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC EL
+	f=Source Han Mono TC
+	s=EL Italic
+	l=Source Han Mono TC EL
+
+[SourceHanMonoTC-Light]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,L
+	l=3,1,0x404,\601D\6E90\7B49\5BEC L
+	f=Source Han Mono TC
+	s=L
+	l=Source Han Mono TC L
+
+[SourceHanMonoTC-LightIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,L Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC L
+	f=Source Han Mono TC
+	s=L Italic
+	l=Source Han Mono TC L
+
+[SourceHanMonoTC-Normal]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,N
+	l=3,1,0x404,\601D\6E90\7B49\5BEC N
+	f=Source Han Mono TC
+	s=N
+	l=Source Han Mono TC N
+
+[SourceHanMonoTC-NormalIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,N Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC N
+	f=Source Han Mono TC
+	s=N Italic
+	l=Source Han Mono TC N
+
+[SourceHanMonoTC-Regular]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,Regular
+	l=3,1,0x404,\601D\6E90\7B49\5BEC
+	f=Source Han Mono TC
+	s=Regular
+	l=Source Han Mono TC
+
+[SourceHanMonoTC-RegularIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC
+	f=Source Han Mono TC
+	s=Italic
+	l=Source Han Mono TC
+
+[SourceHanMonoTC-Medium]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,M
+	l=3,1,0x404,\601D\6E90\7B49\5BEC M
+	f=Source Han Mono TC
+	s=M
+	l=Source Han Mono TC M
+
+[SourceHanMonoTC-MediumIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,M Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC M
+	f=Source Han Mono TC
+	s=M Italic
+	l=Source Han Mono TC M
+
+[SourceHanMonoTC-Bold]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,Bold
+	l=3,1,0x404,\601D\6E90\7B49\5BEC
+	f=Source Han Mono TC
+	s=Bold
+	l=Source Han Mono TC
+
+[SourceHanMonoTC-BoldIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,Bold Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC
+	f=Source Han Mono TC
+	s=Bold Italic
+	l=Source Han Mono TC
+
+[SourceHanMonoTC-Heavy]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,H
+	l=3,1,0x404,\601D\6E90\7B49\5BEC H
+	f=Source Han Mono TC
+	s=H
+	l=Source Han Mono TC H
+
+[SourceHanMonoTC-HeavyIt]
+	f=3,1,0x404,\601D\6E90\7B49\5BEC
+	s=3,1,0x404,H Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC H
+	f=Source Han Mono TC
+	s=H Italic
+	l=Source Han Mono TC H
+
+# Traditional Chinese for Hong Kong SAR
+
+[SourceHanMonoHC-ExtraLight]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,EL
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F EL
+	f=Source Han Mono HC
+	s=EL
+	l=Source Han Mono HC EL
+
+[SourceHanMonoHC-ExtraLightIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,EL Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F EL
+	f=Source Han Mono HC
+	s=EL Italic
+	l=Source Han Mono HC EL
+
+[SourceHanMonoHC-Light]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,L
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F L
+	f=Source Han Mono HC
+	s=L
+	l=Source Han Mono HC L
+
+[SourceHanMonoHC-LightIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,L Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F L
+	f=Source Han Mono HC
+	s=L Italic
+	l=Source Han Mono HC L
+
+[SourceHanMonoHC-Normal]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,N
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F N
+	f=Source Han Mono HC
+	s=N
+	l=Source Han Mono HC N
+
+[SourceHanMonoHC-NormalIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,N Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F N
+	f=Source Han Mono HC
+	s=N Italic
+	l=Source Han Mono HC N
+
+[SourceHanMonoHC-Regular]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,Regular
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	f=Source Han Mono HC
+	s=Regular
+	l=Source Han Mono HC
+
+[SourceHanMonoHC-RegularIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	f=Source Han Mono HC
+	s=Italic
+	l=Source Han Mono HC
+
+[SourceHanMonoHC-Medium]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,M
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F M
+	f=Source Han Mono HC
+	s=M
+	l=Source Han Mono HC M
+
+[SourceHanMonoHC-MediumIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,M Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F M
+	f=Source Han Mono HC
+	s=M Italic
+	l=Source Han Mono HC M
+
+[SourceHanMonoHC-Bold]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,Bold
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	f=Source Han Mono HC
+	s=Bold
+	l=Source Han Mono HC
+
+[SourceHanMonoHC-BoldIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,Bold Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	f=Source Han Mono HC
+	s=Bold Italic
+	l=Source Han Mono HC
+
+[SourceHanMonoHC-Heavy]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,H
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F H
+	f=Source Han Mono HC
+	s=H
+	l=Source Han Mono HC H
+
+[SourceHanMonoHC-HeavyIt]
+	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
+	s=3,1,0xC04,H Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F H
+	f=Source Han Mono HC
+	s=H Italic
+	l=Source Han Mono HC H
+
+# EOF
