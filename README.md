@@ -24,4 +24,4 @@ Send suggestions for changes to the *Source Han Mono* project maintainer, [Dr. K
 
 ## Further information
 
-For information about the design and background of *Source Han Mono*, please refer to the [ReadMe](raw/master/SourceHanMonoReadMe.pdf) (PDF).
+For information about the design and background of *Source Han Mono*, please refer to the [ReadMe](https://github.com/adobe-fonts/source-han-mono/raw/master/SourceHanMonoReadMe.pdf) (PDF).
