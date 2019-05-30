@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoK-Heavy)
 FullName                   (Source Han Mono K Heavy)
 FamilyName                 (Source Han Mono K)
 Weight                     (Heavy)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

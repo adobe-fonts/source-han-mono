@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoK-Medium)
 FullName                   (Source Han Mono K Medium)
 FamilyName                 (Source Han Mono K)
 Weight                     (Medium)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

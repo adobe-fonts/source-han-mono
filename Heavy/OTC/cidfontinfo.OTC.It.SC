@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoSC-HeavyIt)
 FullName                   (Source Han Mono SC Heavy Italic)
 FamilyName                 (Source Han Mono SC)
 Weight                     (Heavy Italic)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoHC-Light)
 FullName                   (Source Han Mono HC Light)
 FamilyName                 (Source Han Mono HC)
 Weight                     (Light)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

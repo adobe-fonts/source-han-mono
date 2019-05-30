@@ -2,7 +2,7 @@ FontName                   (SourceHanMono-Bold)
 FullName                   (Source Han Mono Bold)
 FamilyName                 (Source Han Mono)
 Weight                     (Bold)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

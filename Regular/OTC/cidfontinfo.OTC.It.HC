@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoHC-RegularIt)
 FullName                   (Source Han Mono HC Italic)
 FamilyName                 (Source Han Mono HC)
 Weight                     (Italic)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

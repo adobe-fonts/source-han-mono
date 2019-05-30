@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoSC-BoldIt)
 FullName                   (Source Han Mono SC Bold Italic)
 FamilyName                 (Source Han Mono SC)
 Weight                     (Bold Italic)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

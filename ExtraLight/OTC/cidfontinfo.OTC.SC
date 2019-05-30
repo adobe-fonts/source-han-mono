@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoSC-ExtraLight)
 FullName                   (Source Han Mono SC ExtraLight)
 FamilyName                 (Source Han Mono SC)
 Weight                     (ExtraLight)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

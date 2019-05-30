@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoK-LightIt)
 FullName                   (Source Han Mono K Light Italic)
 FamilyName                 (Source Han Mono K)
 Weight                     (Light Italic)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

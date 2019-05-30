@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoK-ExtraLight)
 FullName                   (Source Han Mono K ExtraLight)
 FamilyName                 (Source Han Mono K)
 Weight                     (ExtraLight)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0

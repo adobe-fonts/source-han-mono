@@ -2,7 +2,7 @@ FontName                   (SourceHanMonoSC-MediumIt)
 FullName                   (Source Han Mono SC Medium Italic)
 FamilyName                 (Source Han Mono SC)
 Weight                     (Medium Italic)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
