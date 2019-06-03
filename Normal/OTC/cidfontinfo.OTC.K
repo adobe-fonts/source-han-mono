@@ -2,13 +2,13 @@ FontName                   (SourceHanMonoK-Normal)
 FullName                   (Source Han Mono K Normal)
 FamilyName                 (Source Han Mono K)
 Weight                     (Normal)
-version                    (1.001)
+version                    (1.002)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
 Layout                     (AI0-SourceHanMono)
 FSType                     0
-isFixedPitch               true
+isFixedPitch               false
 UnderlinePosition          -150
 AdobeCopyright             (Copyright 2014-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.)
 Trademark                  (Source is a trademark of Adobe in the United States and/or other countries.)
