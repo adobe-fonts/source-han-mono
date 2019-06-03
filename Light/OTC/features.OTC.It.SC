@@ -37,7 +37,7 @@ languagesystem hani ZHT;
 languagesystem hani ZHH;
 
 table head {
-  FontRevision 1.001;
+  FontRevision 1.002;
 } head;
 
 table hhea {
@@ -324,7 +324,7 @@ table OS/2 {
   CapHeight 729;
   WeightClass 300;
   WidthClass 5;
-  Panose 2 11 3 9 0 0 0 9 0 0;
+  Panose 2 11 3 0 0 0 0 0 0 0;
   FSType 0;
   Vendor "ADBO";
   winAscent 1175;
