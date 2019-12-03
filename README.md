@@ -20,7 +20,8 @@ In this repository, all necessary files are in place for building the source Ope
 
 ## Getting involved
 
-Send suggestions for changes to the *Source Han Mono* project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Mono), for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/source-han-mono/issues) for consideration.
+
 
 ## Further information
 
